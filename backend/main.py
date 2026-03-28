@@ -24,14 +24,14 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBSbQlTS_bmCBAzk7ZXvN39jioJ9a07Ss0")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "GEMINI_API_KEY")
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
 METRICS_PATH = os.path.join(os.path.dirname(__file__), "metrics.json")
 MODEL_PATH = os.path.join(os.path.dirname(__file__), "expense_model.pkl")
 
 MONGO_URI = os.getenv(
     "MONGO_URI",
-    "mongodb+srv://ismailinstagram861_db_user:h5jlASHoNtU3Rboi@cluster0.cn9mwpb.mongodb.net/alerthub?retryWrites=true&w=majority&appName=Cluster0",
+    "MONGO_URI",
 )
 
 # ── MongoDB setup ──────────────────────────────────────────────────────────
