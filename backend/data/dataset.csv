@@ -1,0 +1,616 @@
+description,category
+pizza hut order,Food
+swiggy delivery,Food
+zomato food order,Food
+restaurant dinner,Food
+cafe coffee,Food
+grocery store,Food
+supermarket vegetables,Food
+lunch at canteen,Food
+breakfast sandwich,Food
+burger king meal,Food
+dominos pizza,Food
+biryani order,Food
+milk and bread,Food
+fruit juice,Food
+tea and snacks,Food
+kfc chicken,Food
+mcdonalds burger,Food
+subway sandwich,Food
+ice cream parlour,Food
+chinese food order,Food
+south indian thali,Food
+dosa breakfast,Food
+idli sambar,Food
+paneer butter masala,Food
+chicken biryani swiggy,Food
+maggi noodles,Food
+biscuits and chips,Food
+cold drink purchase,Food
+water bottle,Food
+bakery items,Food
+fruits and vegetables,Food
+rice and dal,Food
+cooking oil grocery,Food
+spices purchase,Food
+hotel breakfast,Food
+dinner buffet,Food
+food court mall,Food
+street food,Food
+juice bar,Food
+smoothie cafe,Food
+ordered food online,Food
+pizza delivery,Food
+noodles order,Food
+pasta restaurant,Food
+salad bowl,Food
+veg thali,Food
+non veg meal,Food
+egg breakfast,Food
+paratha dhaba,Food
+chai tapri,Food
+coffee shop,Food
+milk purchase,Food
+curd yogurt,Food
+cheese purchase,Food
+snacks evening,Food
+tiffin service,Food
+mess food,Food
+canteen lunch,Food
+hotel food,Food
+takeaway food,Food
+home delivery food,Food
+pav bhaji,Food
+chole bhature,Food
+rajma chawal,Food
+samosa chaat,Food
+vada pav,Food
+pani puri,Food
+bhel puri,Food
+momos order,Food
+rolls wrap,Food
+shawarma,Food
+kebab order,Food
+tandoori chicken,Food
+mutton curry,Food
+fish fry,Food
+prawn masala,Food
+egg curry,Food
+dal makhani,Food
+palak paneer,Food
+aloo gobi,Food
+mixed veg,Food
+raita lassi,Food
+mango shake,Food
+banana milkshake,Food
+protein shake food,Food
+energy drink,Food
+coconut water,Food
+nimbu pani,Food
+sugarcane juice,Food
+fresh lime soda,Food
+butter milk,Food
+uber ride,Travel
+ola cab booking,Travel
+metro card recharge,Travel
+bus ticket,Travel
+train ticket irctc,Travel
+flight booking,Travel
+petrol fuel,Travel
+toll charge,Travel
+auto rickshaw,Travel
+rapido bike,Travel
+cab to airport,Travel
+fuel station,Travel
+rapido ride,Travel
+bike fuel petrol,Travel
+diesel refill,Travel
+highway toll,Travel
+railway reservation,Travel
+bus pass monthly,Travel
+airport taxi,Travel
+outstation cab,Travel
+local train pass,Travel
+metro recharge,Travel
+intercity bus,Travel
+flight ticket,Travel
+train reservation,Travel
+cab booking,Travel
+bike ride,Travel
+scooter fuel,Travel
+car fuel,Travel
+petrol pump,Travel
+bus fare,Travel
+auto fare,Travel
+taxi fare,Travel
+train fare,Travel
+flight fare,Travel
+travel ticket,Travel
+commute expense,Travel
+vehicle fuel,Travel
+road trip,Travel
+trip expense,Travel
+journey ticket,Travel
+indigo flight,Travel
+spicejet ticket,Travel
+air india booking,Travel
+vistara flight,Travel
+goair ticket,Travel
+redbus booking,Travel
+abhibus ticket,Travel
+makemytrip hotel,Travel
+oyo rooms,Travel
+hotel booking,Travel
+cab rental,Travel
+self drive car,Travel
+bike rental,Travel
+cycle rental,Travel
+electric scooter,Travel
+ev charging,Travel
+parking ticket,Travel
+toll plaza,Travel
+expressway toll,Travel
+bridge toll,Travel
+amazon order,Shopping
+flipkart purchase,Shopping
+myntra clothes,Shopping
+shirt purchase,Shopping
+shoes shopping,Shopping
+mall shopping,Shopping
+online order,Shopping
+meesho order,Shopping
+ajio clothing,Shopping
+nykaa cosmetics,Shopping
+electronics purchase,Shopping
+book purchase,Shopping
+jeans trousers,Shopping
+kurta ethnic wear,Shopping
+saree purchase,Shopping
+watch purchase,Shopping
+mobile phone,Shopping
+laptop purchase,Shopping
+headphones earbuds,Shopping
+home decor items,Shopping
+kitchen utensils,Shopping
+furniture purchase,Shopping
+bedsheet pillow,Shopping
+sports shoes,Shopping
+gym clothes,Shopping
+sunglasses purchase,Shopping
+bag backpack,Shopping
+wallet purchase,Shopping
+perfume deodorant,Shopping
+cosmetics makeup,Shopping
+dress purchase,Shopping
+top blouse,Shopping
+jacket coat,Shopping
+tshirt purchase,Shopping
+shorts purchase,Shopping
+sandals purchase,Shopping
+handbag purchase,Shopping
+jewellery purchase,Shopping
+earrings necklace,Shopping
+ring bracelet,Shopping
+online shopping,Shopping
+clothes shopping,Shopping
+fashion purchase,Shopping
+apparel buy,Shopping
+garment store,Shopping
+footwear purchase,Shopping
+accessories buy,Shopping
+gadget purchase,Shopping
+appliance buy,Shopping
+refrigerator purchase,Shopping
+washing machine,Shopping
+air conditioner,Shopping
+television buy,Shopping
+microwave oven,Shopping
+mixer grinder,Shopping
+pressure cooker,Shopping
+water purifier,Shopping
+fan purchase,Shopping
+cooler purchase,Shopping
+heater purchase,Shopping
+iron box,Shopping
+vacuum cleaner,Shopping
+trimmer shaver,Shopping
+hair dryer,Shopping
+electric kettle,Shopping
+induction cooktop,Shopping
+camera purchase,Shopping
+tablet ipad,Shopping
+smartwatch,Shopping
+bluetooth speaker,Shopping
+electricity bill,Bills
+water bill,Bills
+internet recharge,Bills
+wifi bill,Bills
+phone recharge,Bills
+rent payment,Bills
+emi payment,Bills
+insurance premium,Bills
+gas cylinder,Bills
+broadband bill,Bills
+mobile bill,Bills
+dth recharge,Bills
+credit card bill,Bills
+home loan emi,Bills
+car loan emi,Bills
+society maintenance,Bills
+property tax,Bills
+electricity prepaid,Bills
+postpaid bill,Bills
+jio recharge,Bills
+airtel recharge,Bills
+bsnl bill,Bills
+cooking gas lpg,Bills
+water tanker,Bills
+house rent,Bills
+monthly rent,Bills
+utility bill,Bills
+cable tv bill,Bills
+landline bill,Bills
+loan installment,Bills
+emi due,Bills
+insurance renewal,Bills
+tax payment,Bills
+maintenance charge,Bills
+subscription renewal,Bills
+vi recharge,Bills
+tata sky recharge,Bills
+dish tv recharge,Bills
+sun direct recharge,Bills
+act broadband,Bills
+hathway bill,Bills
+tikona bill,Bills
+electricity unit,Bills
+meter reading,Bills
+gas bill,Bills
+lpg booking,Bills
+cylinder booking,Bills
+prepaid electricity,Bills
+postpaid mobile,Bills
+annual insurance,Bills
+life insurance,Bills
+term insurance,Bills
+vehicle insurance bill,Bills
+doctor consultation,Health
+medicine pharmacy,Health
+hospital bill,Health
+clinic visit,Health
+medical test,Health
+gym membership,Health
+fitness subscription,Health
+pharmacy purchase,Health
+dental checkup,Health
+eye checkup,Health
+health insurance,Health
+blood test lab,Health
+xray scan,Health
+physiotherapy session,Health
+yoga class,Health
+protein supplement,Health
+vitamin tablets,Health
+ayurvedic medicine,Health
+homeopathy treatment,Health
+vaccination,Health
+covid test,Health
+health checkup,Health
+dietitian consultation,Health
+mental health therapy,Health
+ambulance charge,Health
+hospital admission,Health
+nursing home,Health
+icu charges,Health
+surgery cost,Health
+operation theatre,Health
+medical bill,Health
+health camp,Health
+eye glasses,Health
+contact lens,Health
+hearing aid,Health
+orthopedic,Health
+cardiology,Health
+dermatology,Health
+skin clinic,Health
+hair treatment,Health
+weight loss,Health
+nutrition plan,Health
+health drink,Health
+whey protein,Health
+multivitamin,Health
+iron tablet,Health
+calcium supplement,Health
+omega fish oil,Health
+probiotic,Health
+ayurveda,Health
+naturopathy,Health
+acupuncture,Health
+chiropractic,Health
+physiotherapy,Health
+medicine tablet,Health
+capsule purchase,Health
+syrup cough,Health
+antibiotic,Health
+painkiller,Health
+fever medicine,Health
+bp medicine,Health
+diabetes medicine,Health
+thyroid tablet,Health
+cholesterol medicine,Health
+doctor fees,Health
+specialist consultation,Health
+pathology lab,Health
+diagnostic center,Health
+mri scan,Health
+ct scan,Health
+ultrasound test,Health
+ecg test,Health
+blood pressure check,Health
+sugar test,Health
+urine test,Health
+stool test,Health
+netflix subscription,Entertainment
+spotify premium,Entertainment
+movie ticket,Entertainment
+concert ticket,Entertainment
+gaming purchase,Entertainment
+amazon prime,Entertainment
+hotstar subscription,Entertainment
+youtube premium,Entertainment
+party expense,Entertainment
+bowling alley,Entertainment
+amusement park,Entertainment
+disney plus,Entertainment
+zee5 subscription,Entertainment
+sonyliv subscription,Entertainment
+cricket match ticket,Entertainment
+football game,Entertainment
+escape room,Entertainment
+laser tag,Entertainment
+karaoke night,Entertainment
+club entry,Entertainment
+pub outing,Entertainment
+comedy show ticket,Entertainment
+theatre play,Entertainment
+museum entry,Entertainment
+zoo ticket,Entertainment
+ott subscription,Entertainment
+streaming service,Entertainment
+web series,Entertainment
+online game,Entertainment
+video game,Entertainment
+game purchase,Entertainment
+fun activity,Entertainment
+weekend outing,Entertainment
+night out,Entertainment
+party night,Entertainment
+prime video,Entertainment
+apple tv,Entertainment
+mxplayer,Entertainment
+jiocinema,Entertainment
+voot subscription,Entertainment
+alt balaji,Entertainment
+lionsgate play,Entertainment
+book my show,Entertainment
+inox ticket,Entertainment
+pvr cinema,Entertainment
+multiplex ticket,Entertainment
+imax movie,Entertainment
+3d movie,Entertainment
+drive in movie,Entertainment
+stand up comedy,Entertainment
+magic show,Entertainment
+circus ticket,Entertainment
+carnival,Entertainment
+funzone,Entertainment
+trampoline park,Entertainment
+go karting,Entertainment
+paintball,Entertainment
+archery,Entertainment
+rock climbing,Entertainment
+bungee jumping,Entertainment
+water park,Entertainment
+theme park,Entertainment
+gaming zone,Entertainment
+playstation game,Entertainment
+xbox game,Entertainment
+steam game,Entertainment
+mobile game,Entertainment
+in app purchase,Entertainment
+game subscription,Entertainment
+esports,Entertainment
+live concert,Entertainment
+music festival,Entertainment
+dj night,Entertainment
+nightclub,Entertainment
+bar drinks,Entertainment
+hookah lounge,Entertainment
+billiards snooker,Entertainment
+table tennis,Entertainment
+badminton court,Entertainment
+cricket ground,Entertainment
+football turf,Entertainment
+book course online,Education
+udemy course,Education
+college fee,Education
+school fee,Education
+tuition fee,Education
+exam fee,Education
+stationery purchase,Education
+library fee,Education
+coaching class,Education
+certification exam,Education
+coursera subscription,Education
+skillshare membership,Education
+upgrad course,Education
+byju subscription,Education
+unacademy subscription,Education
+school books,Education
+college hostel fee,Education
+university admission,Education
+entrance exam fee,Education
+study material,Education
+pen pencil notebook,Education
+school bag,Education
+geometry box,Education
+drawing material,Education
+science kit,Education
+online class,Education
+e-learning,Education
+workshop fee,Education
+seminar fee,Education
+training course,Education
+neet coaching,Education
+jee coaching,Education
+cat coaching,Education
+ielts fee,Education
+toefl exam,Education
+gre fee,Education
+gmat fee,Education
+upsc coaching,Education
+ssc coaching,Education
+bank exam,Education
+railway exam,Education
+gate exam,Education
+cbse board fee,Education
+icse board fee,Education
+school uniform,Education
+school shoes,Education
+school bag purchase,Education
+compass box,Education
+drawing book,Education
+chart paper,Education
+craft material,Education
+science project,Education
+miscellaneous expense,Other
+atm withdrawal,Other
+bank charge,Other
+gift purchase,Other
+donation,Other
+parking fee,Other
+laundry service,Other
+salon haircut,Other
+home repair,Other
+plumber charge,Other
+electrician fee,Other
+carpenter work,Other
+pest control,Other
+car wash,Other
+dry cleaning,Other
+tailoring charge,Other
+courier delivery,Other
+postal charge,Other
+notary fee,Other
+legal charge,Other
+birthday gift,Other
+wedding gift,Other
+charity donation,Other
+temple donation,Other
+barber shop,Other
+beauty parlour,Other
+spa treatment,Other
+massage therapy,Other
+house cleaning,Other
+maid salary,Other
+driver salary,Other
+watchman tip,Other
+miscellaneous,Other
+general expense,Other
+flower purchase,Other
+decoration items,Other
+candle purchase,Other
+greeting card,Other
+wrapping paper,Other
+gift wrap,Other
+photo print,Other
+frame purchase,Other
+sticker purchase,Other
+craft hobby,Other
+art supply,Other
+paint brush,Other
+canvas board,Other
+hobby expense,Other
+pet food,Other
+vet doctor,Other
+pet medicine,Other
+dog grooming,Other
+cat litter,Other
+flipkart sale,Shopping
+amazon sale,Shopping
+big billion day,Shopping
+great indian sale,Shopping
+myntra end of reason,Shopping
+nykaa sale,Shopping
+ajio sale,Shopping
+meesho sale,Shopping
+snapdeal order,Shopping
+paytm mall,Shopping
+tata cliq,Shopping
+reliance digital,Shopping
+croma store,Shopping
+vijay sales,Shopping
+brand factory,Shopping
+max fashion,Shopping
+westside store,Shopping
+pantaloons,Shopping
+lifestyle store,Shopping
+shoppers stop,Shopping
+plumber repair,Other
+electrician repair,Other
+carpenter repair,Other
+painter work,Other
+mason work,Other
+tile work,Other
+pipe repair,Other
+vehicle service,Other
+bike service,Other
+car service,Other
+oil change,Other
+tyre puncture,Other
+battery replacement,Other
+vehicle repair,Other
+haircut salon,Other
+beard trim,Other
+waxing threading,Other
+facial treatment,Other
+manicure pedicure,Other
+nail art,Other
+hair colour,Other
+hair spa,Other
+body massage,Other
+foot massage,Other
+spa day,Other
+wedding ceremony,Other
+birthday party,Other
+anniversary gift,Other
+farewell gift,Other
+housewarming gift,Other
+baby shower gift,Other
+festival gift,Other
+diwali gift,Other
+christmas gift,Other
+eid gift,Other
+charity fund,Other
+ngo donation,Other
+temple prasad,Other
+church offering,Other
+mosque donation,Other
+blood donation camp,Other
+social work,Other
+volunteer expense,Other
+newspaper daily,Other
+magazine subscription,Other
+lottery ticket,Other
+scratch card,Other
+pvr popcorn,Entertainment
+movie snacks,Entertainment
+cinema food,Entertainment
+concert merchandise,Entertainment
+gaming headset,Entertainment
+gaming chair,Entertainment
+gaming keyboard,Entertainment
+gaming mouse,Entertainment
+streaming device,Entertainment
+chromecast,Entertainment
+fire stick,Entertainment

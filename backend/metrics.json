@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.7008,
+  "accuracy_pct": 70.1,
+  "cv_mean": 0.7008,
+  "cv_std": 0.0458,
+  "holdout_accuracy_pct": 66.7,
+  "train_samples": 615,
+  "test_samples": 93,
+  "model_type": "Voting Ensemble (LinearSVC + LR + SGD) + Word/Char TF-IDF"
+}
